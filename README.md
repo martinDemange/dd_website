@@ -1,0 +1,1 @@
+Note : for the developement do separate branch the different pages, also separate the work on the html and css in differents branch ( for exemple if i work on the home page ( index.html ) i have a different branch for the html and css. 
